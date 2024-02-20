@@ -1,6 +1,6 @@
 This Springboot application:
 1. Provides REST CRUD operations
-2. Uses H2 Databse
+2. Uses H2 Database
 3. Initializes database with 1000s of book at startup
 
 
