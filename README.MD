@@ -15,3 +15,6 @@ http://localhost:8080/books
 
 Get One Book:
 http://localhost:8080/books/5
+
+Delete One Book:
+http://localhost:8080/books/8
