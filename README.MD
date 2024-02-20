@@ -18,3 +18,11 @@ http://localhost:8080/books/5
 
 Delete One Book:
 http://localhost:8080/books/8
+
+Add a new Book:
+http://localhost:8080/books
+{
+  "bookName": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "price": 22
+}
