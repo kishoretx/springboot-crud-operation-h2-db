@@ -6,6 +6,8 @@ public class SpringBootCrudOperationApplication
 {
 public static void main(String[] args) 
 {
-SpringApplication.run(SpringBootCrudOperationApplication.class, args);
+  System.out.println("Starting");
+  SpringApplication.run(SpringBootCrudOperationApplication.class, args);
+
 }
 }

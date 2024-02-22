@@ -31,4 +31,6 @@ build/
 .vscode/
 
 ### H2 Database ###
-mydata/*.db
+.DS_Store
+mydata/
+
