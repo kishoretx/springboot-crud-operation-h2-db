@@ -2,6 +2,7 @@ This Springboot application:
 1. Provides REST CRUD operations
 2. Uses H2 Database
 3. Initializes database with 1000s of book at startup
+4. Provides Junit and Mock tests. (FOr tests , you don't need to run the application)
 
 
 Generate data by copying the data.sql in /SQL_for_data_generation folder into ./src/main/resources folder.
