@@ -33,4 +33,5 @@ build/
 ### H2 Database ###
 .DS_Store
 mydata/
-
+/mydata/h2_data.db.mv.db
+mydata/h2_data.db.mv.db
